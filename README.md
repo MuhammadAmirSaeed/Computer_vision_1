@@ -7,7 +7,7 @@
 - **Registration Number:** 08075512012  
 
 ### **GitHub Repository**
-🔗 **Repo:** [Computer_vision_1](git@github.com:MuhammadAmirSaeed/Computer_vision_1.git)
+git@github.com:MuhammadAmirSaeed/Computer_vision_1.git
 
 ---
 
