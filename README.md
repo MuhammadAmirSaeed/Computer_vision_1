@@ -1,12 +1,12 @@
 
-Computer_vision_1
+#*Computer_vision_1*
 
-Course: Computer Vision
-Name: Amir Saeed
-Semester: 2
+#Course: Computer Vision
+#Name: Amir Saeed
+#Semester: 2
 Registration Number: 08075512012
 
-
+#GitHub Repo: git@github.com:MuhammadAmirSaeed/Computer_vision_1.git
 📌 Environment Setup
 Required Libraries:
 OpenCV (cv2)
